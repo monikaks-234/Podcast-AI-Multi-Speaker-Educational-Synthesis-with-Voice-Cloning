@@ -1,0 +1,22 @@
+﻿# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large generated media outputs (Audio, Video, Captions, Uploads)
+outputs/
+processed/
+scratch/
+
+# Environments & IDE
+.env
+*.env
+venv/
+.venv/
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
